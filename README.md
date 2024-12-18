@@ -53,10 +53,10 @@ Este projeto tem como objetivo desenvolver um programa em linguagem C que realiz
 Os integrantes do grupo trabalharam em conjunto para implementar as diferentes funcionalidades do programa. Segue a lista dos membros da equipe:
 
 - **Integrantes:**
-  - Igor Almeida
+  - Igor Almeida Oliveira
   - Guilherme Campos
   - Aulo Cezar
-  - [Preencher Nome]
+  - Maria Clara Oliveira Durães
   - [Preencher Nome]
   - [Preencher Nome]
   - [Preencher Nome]
